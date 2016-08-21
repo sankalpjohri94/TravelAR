@@ -1,0 +1,70 @@
+BEACH
+CARIBBEAN
+DISNEY
+GAMBLING
+HISTORIC
+MOUNTAINS
+NATIONAL-PARKS
+OUTDOORS
+ROMANTIC
+SHOPPING
+SKIING
+THEME-PARK
+
+Personality:
+    Agreeableness 
+        Altruism
+        Sympathy
+        Cooperation
+        Uncompromising
+        Trust
+        Modesty
+    Introversion/Extraversion 
+        Outgoing
+        Cheerfulness
+        Gregariousness
+        Assertiveness
+        Excitement-seeking
+        Activity level
+    Conscientiousness 
+        Self-efficacy
+        Dutifulness
+        Self-discipline
+        Cautiousness
+        Achievement striving
+        Orderliness
+    Openness
+        Artistic interests
+        Emotionality
+        Adventurousness
+        Intellect
+        Imagination
+        Authority-challenging
+    Emotional range
+        Susceptible to stress
+        Prone to worry
+        Fiery
+        Impulsiveness
+        Melancholy
+        Self-consciousness
+    
+Consumer Needs:
+    Harmony
+    Love
+    Practicality
+    Liberty
+    Closeness
+    Excitement
+    Challenge
+    Self-expression
+    Curiosity
+    Stability
+    Ideal
+    Structure
+
+Values
+    Helping others
+    Stimulation
+    Tradition
+    Taking pleasure in life
+    Achievement

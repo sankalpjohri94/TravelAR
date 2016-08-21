@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="`Airline Name"
+        android:id="@+id/airlineName"
+        android:textColor="@color/primary_dark"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Price"
+        android:id="@+id/flightPrice"
+        android:layout_gravity="right"
+        android:textColor="@color/primary_dark"
+        android:layout_below="@+id/airlineName"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="2dp"/>
+
+    <TextView
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Departure Date"
+        android:id="@+id/depDate"
+        android:textColor="@color/primary_dark"
+        android:layout_below="@+id/flightPrice"
+        android:layout_toStartOf="@+id/airlineName"
+        android:layout_marginTop="2dp"
+        android:layout_alignParentEnd="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Return Date"
+        android:id="@+id/retDate"
+        android:textColor="@color/primary_dark"
+        android:layout_below="@+id/depDate"
+        android:layout_alignStart="@+id/depDate"
+        android:layout_alignParentEnd="true" />
+
+</RelativeLayout>
