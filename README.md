@@ -21,5 +21,4 @@ Steps to run the app:
 
 Note:
 
-The code for the android activities and the PHP files for backend is present in the Code directory. The code for the augmented reality part of the app 
-is created on unity which doesn't allow access to the code after it is exported as an android project.
+The code for the android activities and the PHP files for backend is present in the TravelAR and TravelAR PHP Files directories. The code for the augmented reality part of the app is created on unity which doesn't allow access to the code after it is exported as an android project.
