@@ -78,7 +78,7 @@ public class TopDestinations extends AppCompatActivity {
         protected Void doInBackground(String... arg) {
             String twitter_handle = arg[0];
             String city = arg[1];
-            query = "http://travelar.orgfree.com/TravelAR/index.php?type=location&origin="+ city + "&twitter_id=" + twitter_handle;
+            query = "http://139.59.24.207/TravelAR/index.php?type=location&origin="+ city + "&twitter_id=" + twitter_handle;
             URL url = null;
             HttpURLConnection urlConnection = null;
             try{
